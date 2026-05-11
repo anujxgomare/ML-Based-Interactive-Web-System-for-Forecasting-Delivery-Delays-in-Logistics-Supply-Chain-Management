@@ -1,7 +1,20 @@
-# 🚚 LogiPredict AI – Delivery Delay Forecasting System
+# 🚚 ML-Based Interactive Web System for Forecasting Delivery Delays in Logistics & Supply Chain Management
 
 > A production-ready full-stack ML application for predicting and analyzing delivery delays.
 > Built with FastAPI · React · MySQL · XGBoost · Google Gemini AI
+
+---
+Screenshots :-
+login Page
+<img width="1600" height="766" alt="login page" src="https://github.com/user-attachments/assets/38f2f173-22da-4a49-a855-c75886398180" />
+Prediction
+<img width="1600" height="761" alt="prediction" src="https://github.com/user-attachments/assets/764e8914-7a8b-4324-921e-265e11c86ab0" />
+Dashboard
+<img width="1600" height="765" alt="dashboard" src="https://github.com/user-attachments/assets/fd132bbd-0dc3-41c0-935d-cd3d15821a36" />
+Analytical Dashboard
+<img width="1600" height="782" alt="dashboard1" src="https://github.com/user-attachments/assets/a27c4a7b-cf19-44a9-96f9-d870d240d587" />
+Ai chatbot
+<img width="1600" height="761" alt="ai chatbot" src="https://github.com/user-attachments/assets/5ad8c794-d9c0-4531-97ab-c7d362aeac9f" />
 
 ---
 
@@ -52,7 +65,7 @@ logipredict/
 
 ```bash
 # If using git
-git clone https://github.com/yourname/logipredict-ai.git
+git clone https://github.com/anujxgomare/ML-Based-Interactive-Web-System-for-Forecasting-Delivery-Delays-in-Logistics-Supply-Chain-Management.git
 cd logipredict-ai
 ```
 
